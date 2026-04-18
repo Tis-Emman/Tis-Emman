@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=500&color=B22222&center=true&vCenter=true&width=600&height=35&lines=%3E+CLEARANCE%3A+RED;%3E+STATUS%3A+OPERATIONAL;%3E+SHIP+FAST.+FAIL+SILENT.)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=tis-emman&label=INTEL+ACCESSED&color=8B0000&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Tis-Emman&label=INTEL+ACCESSED&color=8B0000&style=for-the-badge)
 ![](https://img.shields.io/badge/STATUS-ACTIVE-8B0000?style=for-the-badge&labelColor=000000)
 ![](https://img.shields.io/badge/CLEARANCE-RED-B22222?style=for-the-badge&labelColor=000000)
 
@@ -30,11 +30,11 @@
 
 <div align="center">
 
-<a href="https://github.com/tis-emman">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=tis-emman&repo=REPO_NAME_1&theme=radical&bg_color=000000&title_color=B22222&icon_color=8B0000&text_color=ffffff&border_color=8B0000"/>
+<a href="https://github.com/Tis-Emman/ByteShift">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Tis-Emman&repo=ByteShift&theme=radical&bg_color=000000&title_color=B22222&icon_color=8B0000&text_color=ffffff&border_color=8B0000"/>
 </a>
-<a href="https://github.com/tis-emman">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=tis-emman&repo=REPO_NAME_2&theme=radical&bg_color=000000&title_color=B22222&icon_color=8B0000&text_color=ffffff&border_color=8B0000"/>
+<a href="https://github.com/Tis-Emman/Nocturnal-Pulse">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Tis-Emman&repo=Nocturnal-Pulse&theme=radical&bg_color=000000&title_color=B22222&icon_color=8B0000&text_color=ffffff&border_color=8B0000"/>
 </a>
 
 </div>
@@ -43,12 +43,12 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=tis-emman&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=000000&title_color=B22222&icon_color=8B0000&text_color=ffffff&border_color=8B0000"/>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=tis-emman&theme=radical&background=000000&ring=B22222&fire=8B0000&currStreakLabel=B22222&border=8B0000"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Tis-Emman&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=000000&title_color=B22222&icon_color=8B0000&text_color=ffffff&border_color=8B0000"/>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Tis-Emman&theme=radical&background=000000&ring=B22222&fire=8B0000&currStreakLabel=B22222&border=8B0000"/>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=tis-emman&bg_color=000000&color=B22222&line=8B0000&point=ffffff&area=true&area_color=8B0000&hide_border=false&height=240)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Tis-Emman&bg_color=000000&color=B22222&line=8B0000&point=ffffff&area=true&area_color=8B0000&hide_border=false&height=240)
 
-![](https://raw.githubusercontent.com/tis-emman/tis-emman/output/github-contribution-grid-snake-dark.svg)
+![](https://raw.githubusercontent.com/Tis-Emman/Tis-Emman/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
